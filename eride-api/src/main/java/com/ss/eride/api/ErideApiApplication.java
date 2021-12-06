@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ErideApiApplication {
 
 	public static void main(String[] args) {
-		// Test comments
+		// Test comments This is some other test
 		SpringApplication.run(ErideApiApplication.class, args);
 	}
 
